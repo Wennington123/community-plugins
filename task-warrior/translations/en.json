@@ -76,6 +76,10 @@
     }
   },
   "settings": {
+    "max-tasks": {
+      "label": "Max tasks on desktop widget",
+      "description": "How many pending tasks the desktop widget shows before summarizing the rest as '+N'."
+    },
     "show-all-tab": {
       "label": "Show 'All' tab",
       "description": "Show a tab listing all pending tasks regardless of tag. The other tabs reflect the tags found on your pending tasks."
